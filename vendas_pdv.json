@@ -1,0 +1,30 @@
+[
+    {
+        "numero_atendimento": 1,
+        "valor_total": 12.0,
+        "metodo_pagamento": "Dinheiro"
+    },
+    {
+        "numero_atendimento": 2,
+        "valor_total": 5.0,
+        "metodo_pagamento": "Pix"
+    },
+    {
+        "numero_atendimento": 3,
+        "quantidade_itens": 5,
+        "valor_total": 25.0,
+        "metodo_pagamento": "Dinheiro"
+    },
+    {
+        "numero_atendimento": 4,
+        "quantidade_itens": 10,
+        "valor_total": 50.0,
+        "metodo_pagamento": "Dinheiro"
+    },
+    {
+        "numero_atendimento": 5,
+        "quantidade_itens": 10,
+        "valor_total": 50.0,
+        "metodo_pagamento": "Pix"
+    }
+]
