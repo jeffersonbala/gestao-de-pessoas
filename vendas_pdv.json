@@ -1,2 +1,16 @@
 [
+    {
+        "numero_atendimento": 1,
+        "quantidade_itens": 1,
+        "produto": "Doce Especial",
+        "valor_total": 5.0,
+        "metodo_pagamento": "Pix"
+    },
+    {
+        "numero_atendimento": 2,
+        "quantidade_itens": 1,
+        "produto": "Cupcake",
+        "valor_total": 3.5,
+        "metodo_pagamento": "Dinheiro"
+    }
 ]
