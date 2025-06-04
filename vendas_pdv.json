@@ -12,5 +12,12 @@
         "produto": "Cupcake",
         "valor_total": 3.5,
         "metodo_pagamento": "Dinheiro"
+    },
+    {
+        "numero_atendimento": 3,
+        "quantidade_itens": 1,
+        "produto": "Doce Especial",
+        "valor_total": 5.0,
+        "metodo_pagamento": "Dinheiro"
     }
 ]
