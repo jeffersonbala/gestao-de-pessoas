@@ -1,26 +1,2 @@
 [
-    {
-        "numero_atendimento": 1,
-        "quantidade_itens": 1,
-        "valor_total": 3.5,
-        "metodo_pagamento": "Dinheiro"
-    },
-    {
-        "numero_atendimento": 2,
-        "quantidade_itens": 2,
-        "valor_total": 7.0,
-        "metodo_pagamento": "Pix"
-    },
-    {
-        "numero_atendimento": 3,
-        "quantidade_itens": 3,
-        "valor_total": 10.5,
-        "metodo_pagamento": "Dinheiro"
-    },
-    {
-        "numero_atendimento": 4,
-        "quantidade_itens": 5,
-        "valor_total": 17.5,
-        "metodo_pagamento": "Dinheiro"
-    }
 ]
